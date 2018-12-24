@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Moskit-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\Module.Moskit.cpp.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\Module.Moskit.gen.cpp.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\moskit.pb.cc.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Moskit\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-Moskit-Win64-DebugGame.lib"

@@ -1,0 +1,77 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/LIBPATH:"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Source\ThirdParty\libprotobuf\lib\win64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\Module.Moskit.cpp.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\Module.Moskit.gen.cpp.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\moskit.pb.cc.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Moskit\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"libprotobuf.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HeadMountedDisplay.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Plugins\Runtime\Steam\SteamVR\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SteamVR.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HTTP.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Json.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-JsonUtilities.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Sockets.lib"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Networking.lib"
+/OUT:"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Binaries\Win64\UE4Editor-Moskit-Win64-DebugGame.dll"
+/IMPLIB:"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-Moskit-Win64-DebugGame.suppressed.lib"
+/PDB:"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Binaries\Win64\UE4Editor-Moskit-Win64-DebugGame.pdb"
+/ignore:4078

@@ -1,0 +1,88 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/LIBPATH:"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Source\ThirdParty\libprotobuf\lib\win64"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.17134.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Intermediate\Build\Win64\ggdEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\CLZF2.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\Moskit.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitBPLibrary.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitGoogleAnalytics.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitManager.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitReceiver.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitVideoController.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MSThreadManager.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\Moskit.init.gen.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitBPLibrary.gen.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\moskit.pb.cc.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\PCLaunch.rc.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"libprotobuf.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Plugins\Runtime\Steam\SteamVR\Intermediate\Build\Win64\UE4Editor\Development\SteamVR\UE4Editor-SteamVR.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\HTTP\UE4Editor-HTTP.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Json\UE4Editor-Json.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\JsonUtilities\UE4Editor-JsonUtilities.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"C:\Program Files\Epic Games\UE_4.20\Engine\Intermediate\Build\Win64\UE4Editor\Development\Networking\UE4Editor-Networking.lib"
+/OUT:"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Binaries\Win64\UE4Editor-Moskit-222.dll"
+/IMPLIB:"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\UE4Editor-Moskit-222.suppressed.lib"
+/PDB:"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Binaries\Win64\UE4Editor-Moskit-222.pdb"
+/ignore:4078

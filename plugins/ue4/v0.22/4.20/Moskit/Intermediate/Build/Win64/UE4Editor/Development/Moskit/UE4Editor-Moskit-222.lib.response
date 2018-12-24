@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Moskit-222.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Intermediate\Build\Win64\ggdEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\CLZF2.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\Moskit.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitBPLibrary.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitGoogleAnalytics.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitManager.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitReceiver.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitVideoController.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MSThreadManager.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\Moskit.init.gen.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\MoskitBPLibrary.gen.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\moskit.pb.cc.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\PCLaunch.rc.res"
+/OUT:"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\Development\Moskit\UE4Editor-Moskit-222.lib"

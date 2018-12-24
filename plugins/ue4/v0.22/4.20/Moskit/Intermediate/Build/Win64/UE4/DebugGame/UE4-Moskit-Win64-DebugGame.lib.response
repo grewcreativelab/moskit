@@ -1,0 +1,9 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4\DebugGame\Moskit\Module.Moskit.cpp.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4\DebugGame\Moskit\Module.Moskit.gen.cpp.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Intermediate\Build\Win64\UE4\DebugGame\Moskit\moskit.pb.cc.obj"
+"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Intermediate\Build\Win64\UE4\DebugGame\Moskit\PCLaunch.rc.res"
+/OUT:"D:\Windows\config\Users\GREWCOM\Documents\Unreal Projects\heightVR18\Plugins\Moskit\Binaries\Win64\UE4-Moskit-Win64-DebugGame.lib"

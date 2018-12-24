@@ -1,0 +1,69 @@
+syntax = "proto2";
+
+package MSAnalyzer.MOSKIT_UNITY_LIB;
+
+message Vector3
+{
+	optional float x = 1;
+	optional float y = 2;
+	optional float z = 3;
+}
+
+message Transform
+{
+	optional Vector3 eulerAngles = 1;
+	optional Vector3 position =2;
+	optional Vector3 angularVelocity =3;
+	optional Vector3 scale =4;
+	optional Vector3 forward =5;
+	optional int32 parent =6;
+}
+
+message MainCamera
+{
+
+	optional string name =1;
+	optional bool active =2;
+	optional int32 layer =3;
+	optional int32 instanceID =4;;
+	optional string tag = 5;
+	optional Transform transform =6;
+	optional Vector3 hitpoint =7;
+}
+
+message Time
+{
+	optional float deltaTime= 1;
+	optional int32 frameCount = 2;
+	optional float time =3;
+}
+
+message GameObject
+{
+	optional string name =1;
+	optional bool active =2;
+	optional bool isStatic =3;
+	optional int32 layer =4;
+	optional int32 instanceID =5;
+	optional string tag =6;
+	optional Transform transform =7;
+	optional string strType =8;
+}
+
+message Scene
+{
+	optional string strIndicate =1;
+	optional Time time =2;
+	optional MainCamera Camera =3;
+	repeated GameObject list_gameObject =4;
+}
+
+message ResultAnalysis
+{
+	repeated GameObject list_obj =1;
+}
+
+message ArrayScene
+{
+	repeated Scene list_Scene = 1;
+}

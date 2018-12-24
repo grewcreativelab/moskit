@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Moskit-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Intermediate\Build\Win64\ggdEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\CLZF2.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\Moskit.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MoskitBPLibrary.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MoskitGoogleAnalytics.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MoskitManager.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MoskitReceiver.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MoskitVideoController.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MSThreadManager.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\Moskit.init.gen.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\MoskitBPLibrary.gen.cpp.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\moskit.pb.cc.obj"
+"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\PCLaunch.rc.res"
+/OUT:"C:\Users\GREWCOM\Documents\Unreal Projects\ggd\Plugins\Moskit\Intermediate\Build\Win64\UE4Editor\DebugGame\Moskit\UE4Editor-Moskit-Win64-DebugGame.lib"
