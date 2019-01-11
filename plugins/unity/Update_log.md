@@ -1,4 +1,14 @@
-﻿# Bug fix (Unity plugin v0.22.1, 181129)
+# Bug fix (Unity plugin v0.22.2, 190111)
+
+- Object에 정상적이지 않은 Component가 있을때 bin 파일이 정상적으로 만들어지지 않는 현상이 수정되었습니다.
+
+# Update infomation (Unity plugin v0.22.2, 190111)
+
+- 매개변수 isMoskitStartWithUnity가 추가되었습니다.
+
+- 매개변수명이 수정되었습니다.
+
+# Bug fix (Unity plugin v0.22.1, 181129)
 
 - AndroidOS에서  bin 파일이 정상적으로 만들어지지 않는 현상이 수정되었습니다.
 
@@ -24,13 +34,17 @@
 
 	* > ScaleRatio : 컨텐츠의 축척비율 (축척비, default (Unity) . 1unit == 1m)
 
-	* > bisActive : Plugin ON/OFF기능	
+	* > isActive : Plugin ON/OFF기능	
 
-	* > bVideoOnOff : Plugin의 녹화ON/OFF기능 ( Multiple Display Streaming환경에서는 녹화 기능이 원할하지 않을 수 있습니다. )
+	* > isWithVideo : Plugin의 녹화ON/OFF기능 ( Multiple Display Streaming환경에서는 녹화 기능이 원할하지 않을 수 있습니다. )
 
-	* > bisConnectedToHardware : VR컨텐츠에 이용되는 하드웨어의 자이로센서값을 받아올 때 사용하는 변수
+	* > isConnectedToHardware : VR컨텐츠에 이용되는 하드웨어의 자이로센서값을 받아올 때 사용하는 변수
 
-	* > bisConnectingLog : hardware 연결 상태 로그 출력용 변수 (true 시 Log출력)
+	* > isConnectingLog : hardware 연결 상태 로그 출력용 변수 (true 시 Log출력)
+	
+	* > isMoskitStartWithUnity : true일때는, 유니티 시작과 동시에 Moskit이 데이터를 생성합니다. 
+	false일때는, 별도로 Moskit의 시작과 종료를 전환해줄 필요가 있습니다.
+	
 
 2. Scene의 시작부분에 하나만 배치합니다. ( DontDestroyOnLoad )
 
