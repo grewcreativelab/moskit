@@ -40,9 +40,9 @@ VR콘텐츠 제작이 진행되는 프로젝트에 플러그인을 사용하여 
 - [Unity](docs/unity_Integration.md)
 
 
-## TechnicalDocument_MOSKIT_v0.1_KO_Ver1.0.0
+## TechnicalDocument_MOSKIT_v0.22_KO.pdf
 
-* [TechnicalDocument](docs/Documentation/TechnicalDocument_MOSKIT_v0.1_KO_Ver1.0.0.pdf)
+* [TechnicalDocument](docs/Documentation/TechnicalDocument_MOSKIT_v0.22_KO.pdf)
 
 
 ## Contact
