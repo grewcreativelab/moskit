@@ -4,7 +4,7 @@
 
 1. Moskit을 적용할 프로젝트의 씬을 Open합니다.
 
-2. 다운로드한 plugin의 패키지를 더블 클릭합니다.
+2. 다운로드한 plugin 패키지 파일을 더블 클릭합니다.
 
 3. import unity package 창의 import 버튼을 누릅니다.
 
