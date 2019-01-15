@@ -26,7 +26,7 @@ VR콘텐츠 제작이 진행되는 프로젝트에 플러그인을 사용하여 
 
 * Moskit Plugin tutorial for expert
 
-[![for 'Unity' demo Video](https://img.youtube.com/vi/cS1SKfhOPzA/0.jpg)](https://youtu.be/cS1SKfhOPzA)
+[![for 'Unity' demo Video](https://img.youtube.com/vi/UyZw_eHFxz0/0.jpg)](https://youtu.be/UyZw_eHFxz0)
 
 ## for Unreal
 * Moskit Plugin tutorial
