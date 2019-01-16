@@ -1,3 +1,7 @@
+# Update infomation (Unity plugin v0.22.3, 190116)
+
+- 예외상황 발생시 예외상황을 기록한 파일과 덤프 파일이 생성됩니다.
+
 # Bug fix (Unity plugin v0.22.2, 190111)
 
 - Object에 정상적이지 않은 Component가 있을때 bin 파일이 정상적으로 만들어지지 않는 현상이 수정되었습니다.
