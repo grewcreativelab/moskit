@@ -22,11 +22,11 @@ VR콘텐츠 제작이 진행되는 프로젝트에 플러그인을 사용하여 
 
 * Moskit Plugin tutorial for mobile
 
-[![for 'Unity' demo Video](https://img.youtube.com/vi/6G4FKx-DY2E/0.jpg)](https://youtu.be/6G4FKx-DY2E)
+[![for 'Unity' demo Video](https://img.youtube.com/vi/bBPa3UNtIQU/0.jpg)](https://youtu.be/bBPa3UNtIQU)
 
 * Moskit Plugin tutorial for expert
 
-[![for 'Unity' demo Video](https://img.youtube.com/vi/UyZw_eHFxz0/0.jpg)](https://youtu.be/UyZw_eHFxz0)
+[![for 'Unity' demo Video](https://img.youtube.com/vi/jrnbhxe-nFU/0.jpg)](https://youtu.be/jrnbhxe-nFU)
 
 ## for Unreal
 * Moskit Plugin tutorial
