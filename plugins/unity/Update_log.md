@@ -1,3 +1,7 @@
+# Update infomation (Unity plugin v0.22.4, 190307)
+
+- 추출하는 정보에 플랫폼 정보가 추가되었습니다.
+
 # Update infomation (Unity plugin v0.22.3, 190116)
 
 - 예외상황 발생시 예외상황을 기록한 파일과 덤프 파일이 생성됩니다.
