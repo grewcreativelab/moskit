@@ -1,6 +1,10 @@
+# Update infomation (Unity plugin v0.22.5, 190314)
+
+- 낮은 버전의 유니티에서도 Moskit이 동작하도록 수정되었습니다.
+
 # Update infomation (Unity plugin v0.22.4, 190307)
 
-- 추출하는 정보에 플랫폼 정보가 추가되었습니다.
+- 추출하는 정보에 플랫폼 정보(Windows, Mobile 등)가 추가되었습니다.
 
 # Update infomation (Unity plugin v0.22.3, 190116)
 
