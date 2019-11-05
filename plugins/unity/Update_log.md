@@ -1,3 +1,7 @@
+# Update infomation (Unity plugin v0.22.6, 191105)
+
+- MSPlugin 프리팹에 모스킷 컴포넌트가 깨져있던 것을 수정하였습니다.
+
 # Update infomation (Unity plugin v0.22.5, 190314)
 
 - 낮은 버전의 유니티에서도 Moskit이 동작하도록 하였습니다.(Unity 5.3.0f4까지 정상 동작함을 확인)
