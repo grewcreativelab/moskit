@@ -1,3 +1,7 @@
+# Bug fix (Unity plugin v0.22.7, 191218)
+
+- Unity 2018 이후 버전의 안드로이드 플랫폼에서 bin 파일이 추출되지 않던 문제를 수정하였습니다.
+
 # Update infomation (Unity plugin v0.22.6, 191105)
 
 - MSPlugin 프리팹에 모스킷 컴포넌트가 깨져있던 것을 수정하였습니다.
