@@ -1,3 +1,7 @@
+# Update infomation (Unity plugin v0.22.8, 200803)
+
+- Unity 2019.4.6f1 버전에서 정상 동작되는 것을 확인하였습니다.
+
 # Bug fix (Unity plugin v0.22.7, 191218)
 
 - Unity 2018 이후 버전의 안드로이드 플랫폼에서 bin 파일이 추출되지 않던 문제를 수정하였습니다.
