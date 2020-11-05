@@ -1,3 +1,11 @@
+# Update infomation (Unity plugin v0.22.9, 201105)
+
+- Windows Vista 이하 버전 지원이 종료되었습니다.
+
+# Bug fix (Unity plugin v0.22.9, 201105)
+
+- Windows Vista 이상일 때, Unity Editor 창이 최대화 상태면 avi 파일 추출이 안되는 문제를 수정하였습니다.
+
 # Update infomation (Unity plugin v0.22.8, 200803)
 
 - Unity 2019.4.6f1 버전에서 정상 동작되는 것을 확인하였습니다.
