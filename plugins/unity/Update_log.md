@@ -1,3 +1,7 @@
+# Bug fix (Unity plugin v0.22.10, 201109)
+
+- 추출된 영상 파일명이 디버그용 문자열로 고정된 문제를 수정하였습니다.
+
 # Update infomation (Unity plugin v0.22.9, 201105)
 
 - Windows Vista 이하 버전 지원이 종료되었습니다.
