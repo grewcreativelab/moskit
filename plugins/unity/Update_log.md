@@ -6,12 +6,10 @@
 - Unity 2019 일 때, Player Settings - Other Settings - Configuration - Api Compatibility Level(기본값 : .NET Standard 2.0)
   
 - Moskitpackage v0.23.00_2018.unitypackage
-- 이 버전은 Unity 2018 이전 버전까지 쓰였던 플러그인입니다. 
-- 구체적으로는 프로젝트의 .NET 버전이 3.5인 프로젝트를 위한 플러그인입니다.
+- 위 버전은 Unity 2018 이전 버전까지 쓰였던 플러그인입니다. 구체적으로는 프로젝트의 .NET 버전이 3.5인 프로젝트를 위한 플러그인입니다.
 
 - Moskitpackage v0.23.00_2019.unitypackage
-- 이 버전은 Unity 2019 이후 버전에서 쓰일 새 플러그인입니다.
-- 구체적으로는 프로젝트의 .NET 버전이 4.x 또는 .NET Standard 2.0 인 프로젝트를 위한 플러그인입니다.
+- 위 버전은 Unity 2019 이후 버전에서 쓰일 새 플러그인입니다. 구체적으로는 프로젝트의 .NET 버전이 4.x 또는 .NET Standard 2.0 인 프로젝트를 위한 플러그인입니다.
   
 # Bug fix (Unity plugin v0.22.10, 201109)
 
