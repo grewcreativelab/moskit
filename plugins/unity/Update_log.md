@@ -2,12 +2,13 @@
 
 - v0.22.10 버전이 Unity 2019 버전 프로젝트를 빌드하고 .exe 파일을 실행할 때 정상 동작하지 않는 문제가 있어 Plugin을 두 버전으로 나누었습니다.
 - 나누는 기준은 Unity 프로젝트의 .NET 버전 기준이며, 프로젝트의 .NET 버전 확인 방법은 아래와 같습니다.
-  Unity 2018 일 때, Player Settings - Other Settings - Configuration - Scripting Runtime Version(기본값 : .NET 4.x Equivalent)
-  Unity 2019 일 때, Player Settings - Other Settings - Configuration - Api Compatibility Level(기본값 : .NET Standard 2.0)
+- Unity 2018 일 때, Player Settings - Other Settings - Configuration - Scripting Runtime Version(기본값 : .NET 4.x Equivalent)
+- Unity 2019 일 때, Player Settings - Other Settings - Configuration - Api Compatibility Level(기본값 : .NET Standard 2.0)
   
 - Moskitpackage v0.23.00_2018.unitypackage
-  이 버전은 Unity 2018 이전 버전까지 쓰였던 플러그인입니다. 
-  구체적으로는 프로젝트의 .NET 버전이 3.5인 프로젝트를 위한 플러그인입니다.
+- 이 버전은 Unity 2018 이전 버전까지 쓰였던 플러그인입니다. 
+- 구체적으로는 프로젝트의 .NET 버전이 3.5인 프로젝트를 위한 플러그인입니다.
+
 - Moskitpackage v0.23.00_2019.unitypackage
   이 버전은 Unity 2019 이후 버전에서 쓰일 새 플러그인입니다.
   구체적으로는 프로젝트의 .NET 버전이 4.x 또는 .NET Standard 2.0 인 프로젝트를 위한 플러그인입니다.
