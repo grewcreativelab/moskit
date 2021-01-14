@@ -14,8 +14,6 @@ LOGO.ico
 MOSKIT.exe
 MOSKIT.exe.config
 MoskitAnalyzerDLL.dll
-Newtonsoft.Json.dll
-Newtonsoft.Json.xml
 NPOI.dll
 NPOI.OOXML.dll
 NPOI.OpenXml4Net.dll
