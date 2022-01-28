@@ -1,4 +1,8 @@
-﻿# Update infomation (unreal engine4 plugin v0.22, 210422)
+﻿# Update infomation (unreal engine4 plugin v0.22, 220128)
+
+- UE 4.22 ~ 4.26 버전 VR 프로젝트에 Moskit Plugin 적용 시 FOV 값이 비정상적인 값으로 추출되는 문제 수정
+
+# Update infomation (unreal engine4 plugin v0.22, 210422)
 
 - UE 4.22 이후 버전(4.23 ~ 4.26)에 Moskit Plugin을 적용할 수 있도록 새로 업데이트
  
